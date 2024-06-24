@@ -17,3 +17,5 @@ These projects were completed during my Master's in Information and Data Science
   - Feature Selection, One-Hot Encoding, Ordinary Least Squares Regression
 - [Exploratory Data Analysis](https://github.com/dramadas/dramadas.github.io/blob/main/UC-Berkeley-Projects/EDA/FoodAtlas_Insecurity.ipynb) on Food Insecurity in the US
   - Data Cleaning, Data Visualization
+- [Timeseries Forcasting](https://github.com/dramadas/dramadas.github.io/blob/main/UC-Berkeley-Projects/TimeSeries/Time_Series_Forecasting_Prophet.html) using Prophet in Apache Spark (Databricks)
+  - Parallelization, Feature Engineering
