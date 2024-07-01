@@ -1,13 +1,15 @@
 # Portfolio Projects
 
-### 1) Data Science Projects
+## 1) Data Science Projects
 These projects are a combination of Machine Learning and Statistics completed in personal time. Below is a summary of projects and skills used.
-#### Statistics
+
+### Statistics
 - Statistical Analysis of [Medicare Telehealth Trends](https://github.com/dramadas/dramadas.github.io/blob/main/Personal-Projects/Statistics/medicare-telehealth.ipynb)
   - t-test, ANOVA
 - Time Series Forecasting using [Exponential Smoothing and ARIMA](https://github.com/dramadas/dramadas.github.io/blob/main/Personal-Projects/Statistics/mortgage-forecasting.ipynb)
   - Autocorrelation Function (ACF), Partial Autocorrelation Function (PACF), Prediction Interval
-#### Machine Learning
+
+### Machine Learning
 - [Image Comparison](https://github.com/dramadas/dramadas.github.io/blob/main/Personal-Projects/MachineLearning/ImageCompare.ipynb) using Perceptual Hashing and Nearest Neighbors
   - Annoy, Hamming distance
 - Segmentation modeling using [UNet](https://github.com/dramadas/dramadas.github.io/blob/main/Personal-Projects/MachineLearning/UNet.ipynb)
@@ -20,7 +22,7 @@ These projects are a combination of Machine Learning and Statistics completed in
 
 
 
-### 2) UC Berkeley Projects
+## 2) UC Berkeley Projects
 These projects were completed during my Master's in Information and Data Science program at UC Berkeley. If the assignment was completed collaboratively as part of a group, it is noted. Below is a summary of projects and key skills used.
 - Statistical Analysis of [Spend vs Ad Impressions for Snapchat](https://github.com/dramadas/dramadas.github.io/blob/main/UC-Berkeley-Projects/LinearRegression/spend_vs_ad_impressions.pdf)
   - Linear Regression, Data Cleaning
